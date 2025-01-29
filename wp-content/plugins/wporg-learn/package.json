@@ -20,7 +20,7 @@
 		"@wordpress/core-data": "^5.3.0",
 		"@wordpress/data": "4.26.5",
 		"@wordpress/date": "4.18.0",
-		"@wordpress/edit-post": "3.25.3",
+		"@wordpress/edit-post": "7.3.1",
 		"@wordpress/element": "2.19.1",
 		"@wordpress/i18n": "3.18.0",
 		"@wordpress/plugins": "2.24.5",
